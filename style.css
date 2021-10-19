@@ -15,7 +15,7 @@
     font-size: x-large;
     margin: auto;
 }
-#clear #result{
+#clear ,#result{
     width: 50px;
     height: 40px;
     font-size: x-large;
