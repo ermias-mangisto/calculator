@@ -15,6 +15,18 @@
     font-size: x-large;
     margin: auto;
 }
+#clear{
+    width: 50px;
+    height: 40px;
+    font-size: x-large;
+    margin: auto;
+}
+#result{
+    width: 50px;
+    height: 40px;
+    font-size: x-large;
+    margin: auto;
+}
 .oprator{
     width: 40px;
     height: 30px;

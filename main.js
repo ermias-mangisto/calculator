@@ -86,7 +86,6 @@ result.addEventListener("click",function(){
 
 clear.addEventListener("click",function(){
     numOne.value=null;
-    resHolder.value=null
     num=0;
    
 })
