@@ -15,7 +15,7 @@
     font-size: x-large;
     margin: auto;
 }
-#clear{
+#clear #result{
     width: 50px;
     height: 40px;
     font-size: x-large;
@@ -23,12 +23,7 @@
     margin: 2px;
     border: 2px solid black;
 }
-#result{
-    width: 50px;
-    height: 40px;
-    font-size: x-large;
-    margin: auto;
-}
+
 .oprator{
     width: 40px;
     height: 30px;
